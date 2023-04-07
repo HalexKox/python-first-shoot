@@ -1,2 +1,2 @@
-# python-first-shoot
-learn python from Udemy
+# python-dictionary-app
+learn python from Udemy--ardit_sulce
